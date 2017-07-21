@@ -8,3 +8,5 @@ else
    puts "I can't guess the number"
 end
 
+wwwwwwwwwwwwwwwwwwww
+rrrrrrrrrrrrrrrrrrrr
